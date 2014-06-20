@@ -1,4 +1,4 @@
-## The program helps you pass a matrix and cache its inverse instead of performaing the operation every time.
+## The program helps you pass a matrix and cache its inverse instead of performing the operation every time.
 
 ## This function helps you create an inverse of your matrix an cache the same.
 
@@ -17,7 +17,7 @@ makeCacheMatrix <- function(x = matrix()) {
 }
 
 
-## Write a short comment describing this function
+## This function is used for cacheing the matrix
 
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
